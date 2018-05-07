@@ -1,0 +1,65 @@
+﻿  node.cpp
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(7): warning C4603: '_CRTDBG_MAP_ALLOC': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(7): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(8): warning C4603: '_CRTDBG_MAP_ALLOC_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(8): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(13): warning C4603: 'DBG_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(13): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(14): warning C4603: 'new': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(14): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.h(35): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+  linked_list.cpp
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(7): warning C4603: '_CRTDBG_MAP_ALLOC': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(7): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(8): warning C4603: '_CRTDBG_MAP_ALLOC_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(8): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(13): warning C4603: 'DBG_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(13): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(14): warning C4603: 'new': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(14): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\linked_list.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.h(35): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+  card_type.cpp
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(7): warning C4603: '_CRTDBG_MAP_ALLOC': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(7): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(8): warning C4603: '_CRTDBG_MAP_ALLOC_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(8): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(13): warning C4603: 'DBG_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(13): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(14): warning C4603: 'new': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(14): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_type.cpp(17): note: use of precompiled header
+  card_game.cpp
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.h(35): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+  Generating Code...
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_game.cpp(226): warning C4715: 'card_game::get_suit_type': not all control paths return a value
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_game.cpp(259): warning C4715: 'card_game::get_rank_type': not all control paths return a value
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\card_game.cpp(476): warning C4715: 'card_game::get_poker_hand': not all control paths return a value
+  Compiling...
+  Poker.cpp
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(7): warning C4603: '_CRTDBG_MAP_ALLOC': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(7): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(8): warning C4603: '_CRTDBG_MAP_ALLOC_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(8): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(13): warning C4603: 'DBG_NEW': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(13): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(14): warning C4603: 'new': macro is not defined or definition is different after precompiled header use
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(14): note: Add macro to precompiled header instead of defining here
+  c:\users\shweta\documents\visual studio 2015\projects\poker\poker\poker.cpp(17): note: use of precompiled header
+c:\users\shweta\documents\visual studio 2015\projects\poker\poker\node.h(35): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+  Generating Code...
+  Poker.vcxproj -> C:\Users\Shweta\Documents\Visual Studio 2015\Projects\Poker\Debug\Poker.exe
+  Poker.vcxproj -> C:\Users\Shweta\Documents\Visual Studio 2015\Projects\Poker\Debug\Poker.pdb (Full PDB)
